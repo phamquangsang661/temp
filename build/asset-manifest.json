@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a243e0f9.chunk.css",
-    "main.js": "/static/js/main.d45601c1.chunk.js",
-    "main.js.map": "/static/js/main.d45601c1.chunk.js.map",
+    "main.css": "/static/css/main.30d34dbc.chunk.css",
+    "main.js": "/static/js/main.cfcfc3a1.chunk.js",
+    "main.js.map": "/static/js/main.cfcfc3a1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a8e717.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5a8e717.js.map",
     "static/js/2.7306996f.chunk.js": "/static/js/2.7306996f.chunk.js",
@@ -10,10 +10,11 @@
     "static/js/3.adcbff90.chunk.js": "/static/js/3.adcbff90.chunk.js",
     "static/js/3.adcbff90.chunk.js.map": "/static/js/3.adcbff90.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a243e0f9.chunk.css.map": "/static/css/main.a243e0f9.chunk.css.map",
+    "static/css/main.30d34dbc.chunk.css.map": "/static/css/main.30d34dbc.chunk.css.map",
     "static/js/2.7306996f.chunk.js.LICENSE.txt": "/static/js/2.7306996f.chunk.js.LICENSE.txt",
     "static/media/DappsLogo1.9d8a9e6e.png": "/static/media/DappsLogo1.9d8a9e6e.png",
     "static/media/DappsLogo2.c7e7b066.png": "/static/media/DappsLogo2.c7e7b066.png",
+    "static/media/Footerlogo.37d47b41.png": "/static/media/Footerlogo.37d47b41.png",
     "static/media/Group17.8e05b631.png": "/static/media/Group17.8e05b631.png",
     "static/media/Group235.08fd04b8.png": "/static/media/Group235.08fd04b8.png",
     "static/media/GroupAboutus.6ad6d6a9.png": "/static/media/GroupAboutus.6ad6d6a9.png",
@@ -39,7 +40,6 @@
     "static/media/card2.f58a6f30.png": "/static/media/card2.f58a6f30.png",
     "static/media/card3.cbe274fd.png": "/static/media/card3.cbe274fd.png",
     "static/media/card4.acce58b0.png": "/static/media/card4.acce58b0.png",
-    "static/media/footerlogo.eadf907f.png": "/static/media/footerlogo.eadf907f.png",
     "static/media/hypermon.91604373.png": "/static/media/hypermon.91604373.png",
     "static/media/itemMall.538b6711.png": "/static/media/itemMall.538b6711.png",
     "static/media/itemMall3.ae629b50.png": "/static/media/itemMall3.ae629b50.png",
@@ -72,7 +72,7 @@
   "entrypoints": [
     "static/js/runtime-main.e5a8e717.js",
     "static/js/2.7306996f.chunk.js",
-    "static/css/main.a243e0f9.chunk.css",
-    "static/js/main.d45601c1.chunk.js"
+    "static/css/main.30d34dbc.chunk.css",
+    "static/js/main.cfcfc3a1.chunk.js"
   ]
 }
