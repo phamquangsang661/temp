@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.30d34dbc.chunk.css",
+    "main.css": "/static/css/main.7cc83301.chunk.css",
     "main.js": "/static/js/main.df20f584.chunk.js",
     "main.js.map": "/static/js/main.df20f584.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a8e717.js",
@@ -10,7 +10,7 @@
     "static/js/3.adcbff90.chunk.js": "/static/js/3.adcbff90.chunk.js",
     "static/js/3.adcbff90.chunk.js.map": "/static/js/3.adcbff90.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.30d34dbc.chunk.css.map": "/static/css/main.30d34dbc.chunk.css.map",
+    "static/css/main.7cc83301.chunk.css.map": "/static/css/main.7cc83301.chunk.css.map",
     "static/js/2.7306996f.chunk.js.LICENSE.txt": "/static/js/2.7306996f.chunk.js.LICENSE.txt",
     "static/media/DappsLogo1.9d8a9e6e.png": "/static/media/DappsLogo1.9d8a9e6e.png",
     "static/media/DappsLogo2.c7e7b066.png": "/static/media/DappsLogo2.c7e7b066.png",
@@ -72,7 +72,7 @@
   "entrypoints": [
     "static/js/runtime-main.e5a8e717.js",
     "static/js/2.7306996f.chunk.js",
-    "static/css/main.30d34dbc.chunk.css",
+    "static/css/main.7cc83301.chunk.css",
     "static/js/main.df20f584.chunk.js"
   ]
 }
