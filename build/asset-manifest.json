@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a65aedda.chunk.css",
-    "main.js": "/static/js/main.746fe990.chunk.js",
-    "main.js.map": "/static/js/main.746fe990.chunk.js.map",
+    "main.css": "/static/css/main.59446fa8.chunk.css",
+    "main.js": "/static/js/main.52578841.chunk.js",
+    "main.js.map": "/static/js/main.52578841.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5a8e717.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5a8e717.js.map",
     "static/js/2.7306996f.chunk.js": "/static/js/2.7306996f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.adcbff90.chunk.js": "/static/js/3.adcbff90.chunk.js",
     "static/js/3.adcbff90.chunk.js.map": "/static/js/3.adcbff90.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a65aedda.chunk.css.map": "/static/css/main.a65aedda.chunk.css.map",
+    "static/css/main.59446fa8.chunk.css.map": "/static/css/main.59446fa8.chunk.css.map",
     "static/js/2.7306996f.chunk.js.LICENSE.txt": "/static/js/2.7306996f.chunk.js.LICENSE.txt",
     "static/media/DappsLogo1.9d8a9e6e.png": "/static/media/DappsLogo1.9d8a9e6e.png",
     "static/media/DappsLogo2.c7e7b066.png": "/static/media/DappsLogo2.c7e7b066.png",
@@ -42,13 +42,13 @@
     "static/media/card4.acce58b0.png": "/static/media/card4.acce58b0.png",
     "static/media/hypermon.91604373.png": "/static/media/hypermon.91604373.png",
     "static/media/itemMall.538b6711.png": "/static/media/itemMall.538b6711.png",
-    "static/media/itemMall3.ae629b50.png": "/static/media/itemMall3.ae629b50.png",
-    "static/media/itemMall4.697fd1b5.png": "/static/media/itemMall4.697fd1b5.png",
+    "static/media/itemMall3.1bd96ac1.png": "/static/media/itemMall3.1bd96ac1.png",
+    "static/media/itemMall4.88f716e7.png": "/static/media/itemMall4.88f716e7.png",
     "static/media/lineabout.409da505.png": "/static/media/lineabout.409da505.png",
     "static/media/lineabout1.b8d8119e.png": "/static/media/lineabout1.b8d8119e.png",
     "static/media/makeGroupf7.5957e6bf.png": "/static/media/makeGroupf7.5957e6bf.png",
     "static/media/mallItem3.5e9e5ce6.png": "/static/media/mallItem3.5e9e5ce6.png",
-    "static/media/newproductlist.a67306ce.png": "/static/media/newproductlist.a67306ce.png",
+    "static/media/newproductlist.0450c57e.png": "/static/media/newproductlist.0450c57e.png",
     "static/media/ourproductv3.6470df58.png": "/static/media/ourproductv3.6470df58.png",
     "static/media/personel1.938cffb5.png": "/static/media/personel1.938cffb5.png",
     "static/media/personel10.50be938b.png": "/static/media/personel10.50be938b.png",
@@ -72,7 +72,7 @@
   "entrypoints": [
     "static/js/runtime-main.e5a8e717.js",
     "static/js/2.7306996f.chunk.js",
-    "static/css/main.a65aedda.chunk.css",
-    "static/js/main.746fe990.chunk.js"
+    "static/css/main.59446fa8.chunk.css",
+    "static/js/main.52578841.chunk.js"
   ]
 }
