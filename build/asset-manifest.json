@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3a9a00b.chunk.css",
-    "main.js": "/static/js/main.08c00e60.chunk.js",
-    "main.js.map": "/static/js/main.08c00e60.chunk.js.map",
+    "main.css": "/static/css/main.7089760f.chunk.css",
+    "main.js": "/static/js/main.d8a2e93c.chunk.js",
+    "main.js.map": "/static/js/main.d8a2e93c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29e4ee5a.js",
     "runtime-main.js.map": "/static/js/runtime-main.29e4ee5a.js.map",
     "static/js/2.04dafef2.chunk.js": "/static/js/2.04dafef2.chunk.js",
@@ -10,10 +10,8 @@
     "static/js/3.95de3f59.chunk.js": "/static/js/3.95de3f59.chunk.js",
     "static/js/3.95de3f59.chunk.js.map": "/static/js/3.95de3f59.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.e3a9a00b.chunk.css.map": "/static/css/main.e3a9a00b.chunk.css.map",
+    "static/css/main.7089760f.chunk.css.map": "/static/css/main.7089760f.chunk.css.map",
     "static/js/2.04dafef2.chunk.js.LICENSE.txt": "/static/js/2.04dafef2.chunk.js.LICENSE.txt",
-    "static/media/Footerlogo.0954474e.png": "/static/media/Footerlogo.0954474e.png",
-    "static/media/Group235.08fd04b8.png": "/static/media/Group235.08fd04b8.png",
     "static/media/backgroundBlockchain.211dcf96.webp": "/static/media/backgroundBlockchain.211dcf96.webp",
     "static/media/blogitem1.f0c66c04.png": "/static/media/blogitem1.f0c66c04.png",
     "static/media/blogitem2.a758403f.png": "/static/media/blogitem2.a758403f.png",
@@ -22,19 +20,13 @@
     "static/media/blogitem5.9bbd62fb.png": "/static/media/blogitem5.9bbd62fb.png",
     "static/media/blogitem6.15641f17.png": "/static/media/blogitem6.15641f17.png",
     "static/media/blogmain.8618f11b.png": "/static/media/blogmain.8618f11b.png",
-    "static/media/itemMall.15064747.png": "/static/media/itemMall.15064747.png",
     "static/media/personelbg.48090282.png": "/static/media/personelbg.48090282.png",
-    "static/media/product-coming.a2f2655f.png": "/static/media/product-coming.a2f2655f.png",
-    "static/media/product-dapps.37753035.png": "/static/media/product-dapps.37753035.png",
-    "static/media/product-games.3ffc13a1.png": "/static/media/product-games.3ffc13a1.png",
-    "static/media/product-plaza.389fa872.png": "/static/media/product-plaza.389fa872.png",
-    "static/media/product-wallet.2baa9f3e.png": "/static/media/product-wallet.2baa9f3e.png",
     "static/media/productv5.f067661b.png": "/static/media/productv5.f067661b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.29e4ee5a.js",
     "static/js/2.04dafef2.chunk.js",
-    "static/css/main.e3a9a00b.chunk.css",
-    "static/js/main.08c00e60.chunk.js"
+    "static/css/main.7089760f.chunk.css",
+    "static/js/main.d8a2e93c.chunk.js"
   ]
 }
